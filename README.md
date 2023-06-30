@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Python and Java**
 
+- 💻 I'm currently working on **a flight booking app**
+
 - 📫 How to reach me **yah.mohamed03@gmail.com**
 
 - ⚡ Fun fact **I enjoy playing Table Tennis**
