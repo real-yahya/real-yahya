@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Java**
 
-- 💻 I'm currently working on **a variety of projects in the 100 days of code with Angela Yu**
+- 💻 I'm currently working on **a variety of projects in the 100 days of code course with Angela Yu**
 
 - 📫 How to reach me **yah.mohamed03@gmail.com**
 
