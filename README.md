@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yahya.</h1>
 <h3 align="center">A passionate Computer Science student at the University of Leicester.</h3>
 
-- 🌱 I’m currently learning **Python and Java**
-
-- 💻 I'm currently working on **a variety of projects in the 100 days of code course with Angela Yu**
-
-- 📫 How to reach me **yah.mohamed03@gmail.com**
+- 🌱 I’m currently learning **at the University of Leicester**
 
 - ⚡ Fun fact **I enjoy playing Table Tennis**
+
+- 📫 How to reach me **yah.mohamed03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
