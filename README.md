@@ -43,7 +43,7 @@ First-Class Computer Science graduate from the University of Leicester (78%). I 
 Full-stack fleet management web app built with the MERN stack and Docker. Tracks company vehicles with live data including mileage, lease status, and fuel levels. Features CRUD operations, advanced search/filter, and a responsive React interface.
 `React` `Node.js` `MongoDB` `Express.js` `Docker`
 
-### LLM-Controlled Robot Car
+### [LLM-Controlled Robot Car](https://github.com/real-yahya/LLM-Controlled-Robot-Car)
 Integrated OpenAI's LLM with ROS2 on Ubuntu to build a robot car simulation that converts natural language and image prompts into real-time movement commands. Achieved 2.7s average response latency with a Python-based GUI-to-LLM pipeline.
 `Python` `ROS2` `Ubuntu` `JavaScript`
 
